@@ -11,3 +11,4 @@ securityBaseline{
   DagilityProjectId = "1034429"
   ImageUrl = "artifactory.dagility.com/docker-sf/backend:latest"
 }
+
